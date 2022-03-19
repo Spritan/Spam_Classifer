@@ -2,4 +2,4 @@
 Simple SMS spam classifier
 using
 - Bag of Words
-- Naive Baiyes
+- Naive Bayes
