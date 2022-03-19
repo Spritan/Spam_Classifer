@@ -1,5 +1,5 @@
 # Spam_Classifer
-Simple SMS spam lassifier
+Simple SMS spam classifier
 using
 - Bag of Words
 - Naive Baiyes
